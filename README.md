@@ -2,7 +2,7 @@
 
 
 
-I'm a Data cientist 
+I'm a Data Scientist 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppmota&layout=compact&show_icons=true&theme=algolia" alt="ppmota top languages" />
 
